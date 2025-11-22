@@ -1,0 +1,110 @@
+{
+    "101": [
+        {
+            "day": 1,
+            "tasks": [
+                "wakeup",
+                "wash",
+                "food",
+                "getting ready",
+                "work",
+                "lunch",
+                "home",
+                "snacks",
+                "play",
+                "dinner",
+                "sleep"
+            ],
+            "meal_plan": {
+                "meals": {
+                    "Breakfast": "Idli + Sambar",
+                    "Lunch": "Curd Rice",
+                    "Snack": "Dry Fruits",
+                    "Dinner": "Chole + Roti"
+                }
+            },
+            "calendar": "--- Daily Calendar ---\n\nMorning Tasks: wakeup, wash, food\nBreakfast: Idli + Sambar\nAfternoon Tasks: getting ready, work, lunch\nLunch: Curd Rice\nSnack: Dry Fruits\nEvening Tasks: home, snacks, play, dinner, sleep\nDinner: Chole + Roti",
+            "summary": "Summary:\nYou have 11 tasks today.\nToday you completed most tasks. Good job! Keep consistency tomorrow."
+        }
+    ],
+    "102": [
+        {
+            "day": 1,
+            "tasks": [
+                "wakeup",
+                "wash",
+                "food",
+                "getting ready",
+                "work",
+                "lunch",
+                "home",
+                "snacks",
+                "play",
+                "dinner",
+                "sleep"
+            ],
+            "meal_plan": {
+                "meals": {
+                    "Breakfast": "Egg Sandwich",
+                    "Lunch": "Prawn Curry + Rice",
+                    "Snack": "Banana",
+                    "Dinner": "Mutton Stew"
+                }
+            },
+            "calendar": "--- Daily Calendar ---\n\nMorning Tasks: wakeup, wash, food\nBreakfast: Egg Sandwich\nAfternoon Tasks: getting ready, work, lunch\nLunch: Prawn Curry + Rice\nSnack: Banana\nEvening Tasks: home, snacks, play, dinner, sleep\nDinner: Mutton Stew",
+            "summary": "Summary:\nYou have 11 tasks today.\nToday you completed most tasks. Good job! Keep consistency tomorrow."
+        }
+    ],
+    "103": [
+        {
+            "day": 1,
+            "tasks": [
+                "wakeup",
+                "wash",
+                "food",
+                "getting ready",
+                "work",
+                "lunch",
+                "home",
+                "snacks",
+                "play",
+                "dinner",
+                "sleep"
+            ],
+            "meal_plan": {
+                "meals": {
+                    "Breakfast": "Toast + Peanut Butter",
+                    "Lunch": "Veg Wrap",
+                    "Snack": "Carrot Sticks",
+                    "Dinner": "Mushroom Curry + Rice"
+                }
+            },
+            "calendar": "--- Daily Calendar ---\n\nMorning Tasks: wakeup, wash, food\nBreakfast: Banana Smoothie\nAfternoon Tasks: getting ready, work, lunch\nLunch: Veg Sandwich\nSnack: Papaya\nEvening Tasks: home, snacks, play, dinner, sleep\nDinner: Palak Paneer + Rice",
+            "summary": "Summary:\nYou have 11 tasks today.\nToday you completed most tasks. Good job! Keep consistency tomorrow."
+        }
+    ],
+    "104": [
+        {
+            "day": 1,
+            "tasks": [
+                "wakeup",
+                "breakfast",
+                "work",
+                "lunch",
+                "gym",
+                "dinner",
+                "sleep"
+            ],
+            "meal_plan": {
+                "meals": {
+                    "Breakfast": "Egg Muffin",
+                    "Lunch": "Chicken Salad",
+                    "Snack": "Papaya",
+                    "Dinner": "Fish Fry + Rice"
+                }
+            },
+            "calendar": "--- Daily Calendar ---\n\nMorning Tasks: wakeup, breakfast\nBreakfast: Omelette + Toast\nAfternoon Tasks: work, lunch\nLunch: Prawn Stir-fry\nSnack: Nuts\nEvening Tasks: gym, dinner, sleep\nDinner: Chicken Curry + Roti",
+            "summary": "Summary:\nYou have 7 tasks today.\nToday you completed most tasks. Good job! Keep consistency tomorrow."
+        }
+    ]
+}
